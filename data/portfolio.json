@@ -1,0 +1,137 @@
+{
+  "name": "Deep Parekh",
+  "headerTaglineOne": "Hi 👋",
+  "headerTaglineTwo": "I'm Deep Parekh",
+  "headerTaglineThree": "I",
+  "headerChangingWords": [
+    "Develop Software",
+    "Build Solutions",
+    "Solve Problems",
+    "Leverage Data"
+  ],
+  "showCursor": true,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/deepparekh02"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/deep-parekh02/"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:deep.parekh02@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "title": "UBC Course Seat Notifier",
+      "description": "Software Development",
+      "imageSrc": "https://github.com/deepparekh02/ubc-course-seat-notifier/assets/65657471/90c5ccde-c004-42cf-bec1-155d29bca579",
+      "url": "https://github.com/deepparekh02/ubc-course-seat-notifier"
+    },
+    {
+      "title": "Toronto Bus Delay Prediction",
+      "description": "Machine Learning",
+      "imageSrc": "https://github.com/deepparekh02/bus-delay-prediction-ML/assets/65657471/0198a9f3-5303-4465-8b8c-16351415f0cc",
+      "url": "https://github.com/deepparekh02/bus-delay-prediction-ML"
+    },
+    {
+      "title": "Treasure Gunner",
+      "description": "Game Development",
+      "imageSrc": "/images/treasure-gunner.png",
+      "url": "https://github.com/CPSC427-2023-Team-10/Treasure-Gunner"
+    },
+    {
+      "title": "Online Shopping Website",
+      "description": "Full-Stack Web Development",
+      "imageSrc": "https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/c2e6cf1d-2147-4aa9-8ac9-0acff396468c",
+      "url": "https://github.com/deepparekh02/ecommerce-fullstack"
+    },
+    {
+      "title": "Resort Database Management",
+      "description": "Backend Development",
+      "imageSrc": "https://github.com/deepparekh02/resort-database-management/assets/65657471/c91e8ad8-5dc9-422f-ab4c-8a3b295dec9c",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "title": "Dog Adoption App",
+      "description": "Android Mobile Development",
+      "imageSrc": "https://github.com/deepparekh02/dog-adoption-android/assets/65657471/fee510da-1b83-4430-8787-d8fd69cdb013",
+      "url": "https://github.com/deepparekh02/dog-adoption-android"
+    },
+    {
+      "title": "Quantitative Finance Analysis",
+      "description": "Data Analysis",
+      "imageSrc": "https://github.com/deepparekh02/quantitative-finance-analysis/assets/65657471/167856b7-5974-4a58-b8ee-7be663b19b65",
+      "url": "https://github.com/deepparekh02/quantitative-finance-analysis"
+    },
+    {
+      "title": "Portfolio Website",
+      "description": "Right Here",
+      "imageSrc": "images/me.png",
+      "url": "https://github.com/deepparekh02/deepparekh02.github.io"
+    }
+  ],
+  "aboutpara1": "I specialize in crafting data-driven solutions and developing innovative software that boosts performance across diverse domains.",
+  "aboutpara2": "Passionate about AI innovations and merging technology with business strategies, I thrive in environments that challenge and expand my skills.",
+  "aboutpara3": "Committed to continuous improvement, I leverage my technical expertise to solve real-world problems, lead transformative projects, and make a significant impact.",
+    "education": {
+      "universityName": "University of British Columbia",
+      "universityDate": "2020 - 2025",
+      "universityPara": "Combined Degree in Computer Science and Business. Dean's Honor Roll."
+    },
+    "languages": [
+      "Python",
+      "Java, C, C++",
+      "SQL, R",
+      "Javascript, HTML, CSS",
+      "Julia, Rust"
+    ],
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Cloud - AWS, GCP, Azure"
+    ],
+    "others": [
+      "Linux",
+      "Tableau",
+      "PowerBI"
+    ],
+  "experiences": [
+    {
+      "title": "Machine Learning Developer Co-op",
+      "company_name": "Kinaxis",
+      "iconBg": "#ffffff",
+      "date": "Jan 2024 - Apr 2024",
+      "logo": "/images/kinaxis.svg"
+    },
+    {
+      "title": "Software Developer",
+      "company_name": "UBC AeroDesign",
+      "iconBg": "#333333",
+      "date": "Sep 2023 - Apr 2024",
+      "logo": "/images/ubc_aerodesign.svg"
+    },
+    {
+      "title": "Student Researcher",
+      "company_name": "UBC Sauder",
+      "iconBg": "#333333",
+      "date": "Jan 2023 - Apr 2024",
+      "logo": "/images/ubc.svg"
+    },
+    {
+      "title": "Data Scientist Co-op",
+      "company_name": "Deloitte: Omnia AI",
+      "iconBg": "#333333",
+      "date": "May 2022 - Aug 2022",
+      "logo": "/images/deloitte.svg"
+    }
+  ]
+}
