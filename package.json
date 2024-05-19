@@ -9,7 +9,6 @@
     "lint": "next lint",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://deepparekh02.github.io",
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "autoprefixer": "^10.4.7",

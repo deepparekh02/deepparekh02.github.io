@@ -7,8 +7,6 @@ import { stagger } from "../animations";
 import Footer from "../components/Footer";
 import Head from "next/head";
 import AnimatedText from "../components/AnimatedText";
-import Button from "../components/Button";
-import Link from "next/link";
 import Cursor from "../components/Cursor";
 import Experience from "../components/Experience";
 
@@ -62,6 +60,7 @@ export default function Home() {
     <div className={`relative ${data.showCursor && "cursor-none"}`}>
       {data.showCursor && <Cursor />}
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>{data.name}</title>
       </Head>
 
