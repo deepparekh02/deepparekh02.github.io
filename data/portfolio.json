@@ -30,48 +30,56 @@
   ],
   "projects": [
     {
+      "id" : "1",
       "title": "UBC Course Seat Notifier",
       "description": "Software Development",
       "imageSrc": "https://github.com/deepparekh02/ubc-course-seat-notifier/assets/65657471/90c5ccde-c004-42cf-bec1-155d29bca579",
       "url": "https://github.com/deepparekh02/ubc-course-seat-notifier"
     },
     {
+      "id" : "2",
       "title": "Toronto Bus Delay Prediction",
       "description": "Machine Learning",
       "imageSrc": "https://github.com/deepparekh02/bus-delay-prediction-ML/assets/65657471/0198a9f3-5303-4465-8b8c-16351415f0cc",
       "url": "https://github.com/deepparekh02/bus-delay-prediction-ML"
     },
     {
+      "id" : "3",
       "title": "Treasure Gunner",
       "description": "Game Development",
       "imageSrc": "/images/treasure-gunner.png",
       "url": "https://github.com/CPSC427-2023-Team-10/Treasure-Gunner"
     },
     {
+      "id" : "4",
       "title": "Online Shopping Website",
       "description": "Full-Stack Web Development",
       "imageSrc": "https://github.com/deepparekh02/ecommerce-fullstack/assets/65657471/c2e6cf1d-2147-4aa9-8ac9-0acff396468c",
       "url": "https://github.com/deepparekh02/ecommerce-fullstack"
     },
     {
+      "id" : "5",
       "title": "Resort Database Management",
       "description": "Backend Development",
       "imageSrc": "https://github.com/deepparekh02/resort-database-management/assets/65657471/c91e8ad8-5dc9-422f-ab4c-8a3b295dec9c",
-      "url": "http://chetanverma.com/"
+      "url": "https://github.com/deepparekh02/resort-database-management"
     },
     {
+      "id" : "6",
       "title": "Dog Adoption App",
       "description": "Android Mobile Development",
       "imageSrc": "https://github.com/deepparekh02/dog-adoption-android/assets/65657471/fee510da-1b83-4430-8787-d8fd69cdb013",
       "url": "https://github.com/deepparekh02/dog-adoption-android"
     },
     {
+      "id" : "7",
       "title": "Quantitative Finance Analysis",
       "description": "Data Analysis",
       "imageSrc": "https://github.com/deepparekh02/quantitative-finance-analysis/assets/65657471/167856b7-5974-4a58-b8ee-7be663b19b65",
       "url": "https://github.com/deepparekh02/quantitative-finance-analysis"
     },
     {
+      "id" : "8",
       "title": "Portfolio Website",
       "description": "Right Here",
       "imageSrc": "images/me.png",
