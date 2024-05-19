@@ -59,7 +59,7 @@ const Experience = ({ experiences }) => {
 
     const lineColor = theme === 'dark' ? {
         background: '#292929',
-        color: '#eaeaec',
+        color: '#4f4f4f',
         boxShadow: 'rgba(255, 255, 255, 0.1) 0px 10px 15px -3px, rgba(255, 255, 255, 0.05) 0px 4px 6px -2px',
     } : {
         background: '#eaeaec',
