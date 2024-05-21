@@ -66,10 +66,10 @@
     },
     {
       "id" : "6",
-      "title": "Dog Adoption App",
-      "description": "Android Mobile Development",
-      "imageSrc": "https://github.com/deepparekh02/dog-adoption-android/assets/65657471/fee510da-1b83-4430-8787-d8fd69cdb013",
-      "url": "https://github.com/deepparekh02/dog-adoption-android"
+      "title": "Popularity and Usage in Python Libraries",
+      "description": "Research Paper",
+      "imageSrc": "images/researchpaper.jpeg",
+      "url": "https://www.researchgate.net/publication/380728909_Exploring_Popularity_and_Usage_A_Comparative_Analysis_of_GitHub_Stars_and_PyPI_Downloads_in_Python_Libraries"
     },
     {
       "id" : "7",
