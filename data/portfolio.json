@@ -30,6 +30,13 @@
   ],
   "projects": [
     {
+      "id" : "9",
+      "title": "Briefly-AI",
+      "description": "Large Language Models (LLM)",
+      "imageSrc": "https://github.com/deepparekh02/ai-assistant/assets/65657471/00888051-d86e-4562-9eb2-dfc90bf3402c",
+      "url": "https://github.com/deepparekh02/briefly-ai"
+    },
+    {
       "id" : "1",
       "title": "UBC Course Seat Notifier",
       "description": "Software Development",
@@ -70,13 +77,6 @@
       "description": "Research Paper",
       "imageSrc": "images/researchpaper.jpeg",
       "url": "https://www.researchgate.net/publication/380728909_Exploring_Popularity_and_Usage_A_Comparative_Analysis_of_GitHub_Stars_and_PyPI_Downloads_in_Python_Libraries"
-    },
-    {
-      "id" : "7",
-      "title": "Quantitative Finance Analysis",
-      "description": "Data Analysis",
-      "imageSrc": "https://github.com/deepparekh02/quantitative-finance-analysis/assets/65657471/167856b7-5974-4a58-b8ee-7be663b19b65",
-      "url": "https://github.com/deepparekh02/quantitative-finance-analysis"
     },
     {
       "id" : "8",
