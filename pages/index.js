@@ -57,7 +57,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className={`relative ${data.showCursor && "cursor-none"}`}>
+    <div className={`relative ${data.showCursor && "cursor-none"} mx-20 md:mx-40 lg:mx-80`}>
       {data.showCursor && <Cursor />}
       <Head>
         <link rel="icon" href="/favicon.ico" />
